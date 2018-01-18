@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 body {
-   background-image: url("Cover Art - Press 1991 cover cropped square.jpg");
+   background-image: url("../../Cover Art - Press 1991 cover cropped square.jpg");
 }
