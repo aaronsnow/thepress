@@ -25,6 +25,6 @@
 * <a href="11-Something-in-the-Music-Live-at-Eliot-House.mp3">Something in the Music (Live at Eliot House)</a>
 
 ## More recent
-### Marc Dinkin's band <a href="https://www.reverbnation.com/youngsterband">Youngster</a>
-### Marc Kuchner's <a href="http://www.marckuchner.com/">music homepage</a>
-### Aaron's <a href="http://www.broadjam.com/aaronsnow">Broadjam page</a>
+* Marc Dinkin's band <a href="https://www.reverbnation.com/youngsterband">Youngster</a>
+* Marc Kuchner's <a href="http://www.marckuchner.com/">music homepage</a>
+* Aaron's <a href="http://www.broadjam.com/aaronsnow">Broadjam page</a>
