@@ -7,7 +7,6 @@
 * <a href="02-Shine-All-Over-Me-Quadsound.mp3">Shine All Over Me (Quadsound)</a>
 
 ### Our eponymous first demo
-(_the tape that launched a campus cult_)
 * <a href="03-Jill.mp3">Jill</a>
 * <a href="04-Were-Gonna-Talk.mp3">We're Gonna Talk</a>
 * <a href="05-What-Has-Changed.mp3">What Has Changed</a>
@@ -15,13 +14,11 @@
 * <a href="07-I-Would-Be-You.mp3">I Would Be You</a>
 
 ### Our second demo ("Out of Jail")
-(_we waited for our sound engineer to serve time before the final mixes_)
 * <a href="08-Cold-Inside.mp3">Cold Inside</a>
 * <a href="09-I-Own-the-Train.mp3">I Own the Train</a>
 * <a href="10-Go-The-Only-Way.mp3">Go The Only Way</a>
 
 ### Live at Eliot House
-(_as in Charlie Eliot, who also didn't have another bong_)
 * <a href="11-Something-in-the-Music-Live-at-Eliot-House.mp3">Something in the Music (Live at Eliot House)</a>
 
 ## More recent
